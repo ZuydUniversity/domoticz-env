@@ -1,0 +1,3 @@
+[submodule "provisioning/roles/domoticz"]
+	path = provisioning/roles/domoticz
+	url = git@github.com:ZuydUniversity/ansible_role_domoticz.git
