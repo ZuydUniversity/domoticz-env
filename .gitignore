@@ -1,0 +1,17 @@
+.vagrant/
+.idea/
+.molecule/
+__pycache__/
+*.retry
+*.log
+*.pyc
+hosts.vagrant
+
+# dotenv
+.env
+
+# virtualenv
+.venv
+venv/
+*_venv/
+ENV/
