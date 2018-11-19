@@ -8,7 +8,6 @@ sudo apt-get -y install ansible
 
 PLAYBOOK_FILE="deploy.yml"
 INVENTORY_FILE="hosts.vagrant"
-EXTRA_ARGS="--list-tasks --list-hosts"
 
 SOURCE_DIR=$(pwd)
 DESTINATION_DIR="/vagrant"
