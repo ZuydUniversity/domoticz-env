@@ -1,7 +1,7 @@
-##Introduction
+## Introduction
 Vagrant designed to run through multiple platforms including currently Mac OS X, Microsoft Windows, Debian, Ubuntu, CentOS, RedHat and Fedora, in this document we will handle how to configure and run virtual development environment through Vagrant from scratch to up and running, on Windows environments.
 
-##Windows Environment
+## Windows Environment
 To configure Vagrant inside Windows environment, we should to follow the following sections
 
 *Installing Vagrant
@@ -17,7 +17,7 @@ To configure Vagrant inside Windows environment, we should to follow the followi
 *Running the Virtual Machine Configuration Script Shell
 *Suspending and Shutting Down Virtual Machine
 
-##Installing Vagrant
+## Installing Vagrant
 First thing, you need to download vagrant setup from http://www.vagrantup.com/downloads.html, and then run it.
 
 Setup wizard is straightforward, just it will ask to accept license agreement and the path to install, as you will need to use command line, please choose short path as you can, for example in our case, we will use “D:\Vagrant”, it might ask you to restart at the end of setup.
