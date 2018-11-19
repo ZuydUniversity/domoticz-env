@@ -25,7 +25,7 @@ The setup here is some longer but if you just click “Next” without any chang
 ##Installing CMDER
 By default windows platform is not equipped with ssh client, there are many ssh client applications, we will use a portable console emulator for windows called CMDER, it has many built-in functionalities in an easy way to deal with.
 
-To download full version of CMDER, use the following link http://bliker.github.io/cmder, you will find download link in the download section at the middle of the home page approximately.
+To download full version of CMDER, use the following link http://cmder.net/, you will find download link in the download section at the middle of the home page approximately.
 
 After that just unzip the downloaded file and run Cmder.exe from unzipped folder.
 
