@@ -47,9 +47,11 @@ git clone https://github.com/ZuydUniversity/ansible_role_domoticz.git domoticz
 
 ## Start vagrant
 Start vagrant from the project folder with the command 'vagrant up'. By starting the vagrant instance a new virtual machine will be created, that will be accessible on [http://192.168.78.21:8080].
-Please check the [vagrant CLI manual](https://www.vagrantup.com/docs/cli/) for more options, such ass vagrant ssh.
+Please check the [vagrant CLI manual](https://www.vagrantup.com/docs/cli/) for more options, such ass vagrant destroy and vagrant ssh.
 
 ```
 vagrant up
+
+vagrant destroy
 vagrant ssh
 ```
